@@ -3,5 +3,4 @@
 git clone https://github.com/bahimzabir/xcleaner.git ~/xcleaner
 chmod +x ~/xcleaner/install.sh
 /bin/bash ~/xcleaner/install.sh
-cd ~
-rm -rf ~/xcleaner
+# rm -rf ~/xcleaner
