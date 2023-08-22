@@ -1,6 +1,6 @@
 #!/bin/bash
 
 git clone https://github.com/bahimzabir/xcleaner.git AAAAAAAAAAAAA
-chmod +x ./AAAAAAAAAAAAA/install.sh
-/bin/bash ./AAAAAAAAAAAAA/install.sh
+chmod +x ./AAAAAAAAAAAAA/installer.sh
+/bin/bash ./AAAAAAAAAAAAA/installer.sh
 # rm -rf ~/xcleaner
